@@ -19,5 +19,6 @@ watch(toggle, (newToggle) => {
     obj['mouseenter'] = fn2
   }
 })
-console.log(123)
+console.log('commit1')
+console.log('commit2')
 </script>

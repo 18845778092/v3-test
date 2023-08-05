@@ -19,4 +19,5 @@ watch(toggle, (newToggle) => {
     obj['mouseenter'] = fn2
   }
 })
+console.log(123)
 </script>
